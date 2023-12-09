@@ -1,0 +1,13 @@
+[
+    {
+        "numbers": "\n\n                  Exercise #4\n                \n", 
+        "titles": "Mimicking Ajax requests", 
+        "descrips": "Inspect Ajax requests and mimic them"
+    }, 
+    
+    {
+        "numbers": "\n\n                  Exercise #6\n                \n", 
+        "titles": "Scraping Infinite Scrolling Pages (Ajax)", 
+        "descrips": "Learn to scrape infinite scrolling pages"
+    }
+]
